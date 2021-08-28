@@ -1,0 +1,50 @@
+/****************TAG SELECTOR********************/
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: black;
+  width: 7%;
+}
+
+h3 {
+  background-color: #C1CFC0;
+  color: #66BFBF;
+}
+
+/******************ID SELECTOR********************/
+#Heading {
+  color: #1E3163;
+  text-align: center;
+}
+
+/********************CLASS SELECTOR**************************/
+.KiteRunner:hover {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+.UMT:hover {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+.Revolution:hover {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+.SubtleArt:hover {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+.EIF:hover {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
